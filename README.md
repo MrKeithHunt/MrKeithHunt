@@ -12,9 +12,13 @@ I'm Keith Hunt, a passionate Microsoft Power Platform Developer/Evangelist from 
 
  ![Microsoft Power Platform](https://img.shields.io/badge/Microsoft%20Power%20Platform-%23107C10.svg?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
-## ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow) Skills
+##  Skills
+![HTML5](https://img.shields.io/badge/HTML5-Beginner-yellow) 
+![CSS3](https://img.shields.io/badge/CSS3-Beginner-yellow) 
+![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow) 
+![PowerFx Formulas](https://img.shields.io/badge/PowerFx-Intermediate-green) 
 
-- This section is still under construction. 
+
 
 Feel free to explore my repositories for more!
 ## 📈 GitHub Stats
@@ -36,3 +40,6 @@ Feel free to explore my repositories for more!
 Feel free to explore my repositories for more!
 
 ⭐️ If you are looking for a results-driven professional who can bring a unique blend of technical prowess, business acumen, and a vast network, I am here to make a difference. Let's connect and explore how we can create powerful solutions together. Thank you for visiting! 
+
+
+
