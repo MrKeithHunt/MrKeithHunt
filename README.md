@@ -10,7 +10,7 @@ I'm Keith Hunt, a passionate Microsoft Power Platform Developer/Evangelist from 
 
 ## 🔧 Technologies & Tools
 
-- ![Microsoft Power Platform](https://img.shields.io/badge/Microsoft%20Power%20Platform-%23107C10.svg?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+ ![Microsoft Power Platform](https://img.shields.io/badge/Microsoft%20Power%20Platform-%23107C10.svg?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
 ## 📈 GitHub Stats
 
