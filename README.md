@@ -10,7 +10,14 @@ I'm Keith Hunt, a passionate Microsoft Power Platform Developer/Evangelist from 
 
 ## 🔧 Technologies & Tools
 
- ![Microsoft Power Platform](https://img.shields.io/badge/Microsoft%20Power%20Platform-%23107C10.svg?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+[![Microsoft Power Apps](https://img.shields.io/badge/Power%20Apps-%230078D4.svg?style=for-the-badge&logo=microsoft-powerapps&logoColor=white)](https://powerapps.microsoft.com/)
+[![Microsoft Power Automate](https://img.shields.io/badge/Power%20Automate-%230078D4.svg?style=for-the-badge&logo=microsoft-powerautomate&logoColor=white)](https://flow.microsoft.com/)
+[![Microsoft Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=microsoft-powerbi&logoColor=white)](https://powerbi.microsoft.com/)
+[![Microsoft Power Pages](https://img.shields.io/badge/Power%20Pages-%2344A4EF.svg?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/)
+[![Microsoft Office 365](https://img.shields.io/badge/Office%20365-%23D83B01.svg?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/)
+[![Microsoft SharePoint Online](https://img.shields.io/badge/SharePoint%20Online-%23276DC3.svg?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)](https://sharepoint.microsoft.com/)
+[![Microsoft Dataverse](https://img.shields.io/badge/Dataverse-%230075FF.svg?style=for-the-badge&logo=microsoft-dataverse&logoColor=white)](https://powerplatform.microsoft.com/dataverse/)
+
 
 ## 💻 Skills
 ![HTML5](https://img.shields.io/badge/HTML5-Beginner-yellow) 
