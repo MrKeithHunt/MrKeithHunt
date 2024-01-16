@@ -19,7 +19,8 @@ I'm Keith Hunt, a passionate Microsoft Power Platform Developer/Evangelist from 
 Feel free to explore my repositories for more!
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=gruvbox)
+
 
 ## 🌐 Connect with Me
 
