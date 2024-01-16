@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi! 😎✌
 
 I'm Keith Hunt, a passionate Microsoft Power Platform Developer/Evangelist from Tampa, Florida. Welcome to my GitHub profile!
 
@@ -12,7 +12,7 @@ I'm Keith Hunt, a passionate Microsoft Power Platform Developer/Evangelist from 
 
  ![Microsoft Power Platform](https://img.shields.io/badge/Microsoft%20Power%20Platform-%23107C10.svg?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
-##  Skills
+## 💻 Skills
 ![HTML5](https://img.shields.io/badge/HTML5-Beginner-yellow) 
 ![CSS3](https://img.shields.io/badge/CSS3-Beginner-yellow) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow) 
