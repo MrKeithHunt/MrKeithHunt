@@ -26,23 +26,19 @@ I'm Keith Hunt, a passionate Microsoft Power Platform Developer/Evangelist from 
 ![PowerFx Formulas](https://img.shields.io/badge/PowerFx-Intermediate-green) 
 
 
+## 🛠️ Projects
 
-Feel free to explore my repositories for more!
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=gruvbox)
-
-
+- This section is still under construction.
+  
 ## 🌐 Connect with Me
 
 <a href="https://www.linkedin.com/in/your-linkedin-profile/" rel="nofollow">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" alt="LinkedIn Badge">
 </a>•	<a href="https://www.linkedin.com/in/mrkeithhunt?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BgyVQ8l0pS5WAyoWi%2BkavRA%3D%3D">linkedin.com/in/mrkeithhunt</a>
 
+## 📈 GitHub Stats
 
-## 🛠️ Projects
-
-- This section is still under construction. 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=gruvbox)
 
 Feel free to explore my repositories for more!
 
