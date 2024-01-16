@@ -19,11 +19,29 @@ I'm Keith Hunt, a passionate Microsoft Power Platform Developer/Evangelist from 
 [![Microsoft Dataverse](https://img.shields.io/badge/Dataverse-%230075FF.svg?style=for-the-badge&logo=microsoft-dataverse&logoColor=white)](https://powerplatform.microsoft.com/dataverse/)
 
 
+
 ## 💻 Skills
 ![HTML5](https://img.shields.io/badge/HTML5-Beginner-yellow) 
 ![CSS3](https://img.shields.io/badge/CSS3-Beginner-yellow) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow) 
+![YMAL](https://img.shields.io/badge/YMAL-Beginner-yellow)
 ![PowerFx Formulas](https://img.shields.io/badge/PowerFx-Intermediate-green) 
+![Canvas & Model-Driven Apps](https://img.shields.io/badge/Canvas_&_Model--Driven_Apps-Intermediate-green)
+![Power Automate Workflows](https://img.shields.io/badge/Power_Automate_Workflows-Intermediate-green)
+![Power BI Data Analytics](https://img.shields.io/badge/Power_BI_Data_Analytics-Intermediate-green)
+![Dataverse](https://img.shields.io/badge/Dataverse-Intermediate-green)
+![Power Platform Environment Administration](https://img.shields.io/badge/Power_Platform_Environment_Administration-Intermediate-green)
+![PowerFx, Yaml, and JSON](https://img.shields.io/badge/PowerFx_Yaml_JSON-Intermediate-green)
+![Office365 Integration](https://img.shields.io/badge/Office365_Integration-Intermediate-green)
+![Microsoft OneDrive Integration](https://img.shields.io/badge/Microsoft_OneDrive_Integration-Intermediate-green)
+![Microsoft Planner Integration](https://img.shields.io/badge/Microsoft_Planner_Integration-Intermediate-green)
+![SharePoint Online](https://img.shields.io/badge/SharePoint_Online-Intermediate-green)
+![Smartsheet Collaboration Work Management Platform](https://img.shields.io/badge/Smartsheet_Collaboration_Work_Management_Platform-Intermediate-green)
+![Azure DoD Region](https://img.shields.io/badge/Azure_DoD_Region-Intermediate-green)
+![Agile/Scrum](https://img.shields.io/badge/Agile_Scrum-Intermediate-green)
+![Business Process Management](https://img.shields.io/badge/Business_Process_Management-Expert-blue)
+![Excellent Communication Skills](https://img.shields.io/badge/Excellent_Communication_Skills-Expert-blue)
+
 
 
 ## 🛠️ Projects
