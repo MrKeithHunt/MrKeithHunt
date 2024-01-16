@@ -20,7 +20,7 @@ I'm Keith Hunt, a passionate Microsoft Power Platform Developer/Evangelist from 
 
 <a href="https://www.linkedin.com/in/your-linkedin-profile/" rel="nofollow">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" alt="LinkedIn Badge">
-</a>•	[linkedin.com/in/mrkeithhunt](https://www.linkedin.com/in/mrkeithhunt?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BgyVQ8l0pS5WAyoWi%2BkavRA%3D%3D)
+</a>•	<a href="https://www.linkedin.com/in/mrkeithhunt?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BgyVQ8l0pS5WAyoWi%2BkavRA%3D%3D">linkedin.com/in/mrkeithhunt</a>
 
 
 ## 🛠️ Projects
