@@ -60,7 +60,7 @@ Personal App Store (Model-Driven Version):
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/mrkeithhunt" target="_blank">
+  <a href="https://www.linkedin.com/in/mrkeithhunt?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOCDZk6n6SB%2BTjr2pW4g%2Fnw%3D%3D" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 </p>
