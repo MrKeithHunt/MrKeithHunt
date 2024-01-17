@@ -1,7 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/? font=Righteous&size=35&center=true&Center=true&width500&height=70&duration=4000&lines=Hi+😎+✌;+I'm+Keith+Hunt+!;"/></h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A304&background=E9E9E900&random=false&width=435&lines=Hi!+I'm+Keith+Hunt!)](https://git.io/typing-svg)
 
-I'm Keith Hunt, a passionate Microsoft Power Platform Developer/Evangelist from Tampa, Florida. Welcome to my GitHub profile!
+ Welcome to my GitHub profile! I'm a passionate Microsoft Power Platform Developer/Evangelist from Tampa, Florida.
 
 ## 🚀 About Me
 
