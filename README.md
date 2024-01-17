@@ -50,7 +50,7 @@
 ## 🛠️ Projects
 Personal App Store:
 
-<img src="https://github.com/MrKeithHunt/PowerPlatform/blob/Images/App%20Store%20Front.PNG" alt="alt text" width="600" height="400">
+<img src="https://github.com/MrKeithHunt/PowerPlatform/blob/Images/App%20Store%20Front%202.PNG" alt="alt text" width="600" height="400">
 
 Personal App Store (Model-Driven Version):
 
