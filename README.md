@@ -28,7 +28,6 @@ I'm Keith Hunt, a passionate Microsoft Power Platform Developer/Evangelist from 
 ![Power BI Data Analytics](https://img.shields.io/badge/Power_BI_Data_Analytics-Intermediate-green)
 ![Dataverse](https://img.shields.io/badge/Dataverse-Intermediate-green)
 ![Power Platform Environment Administration](https://img.shields.io/badge/Power_Platform_Environment_Administration-Intermediate-green)
-![PowerFx, Yaml, and JSON](https://img.shields.io/badge/PowerFx_Yaml_JSON-Intermediate-green)
 ![Office365 Integration](https://img.shields.io/badge/Office365_Integration-Intermediate-green)
 ![Microsoft OneDrive Integration](https://img.shields.io/badge/Microsoft_OneDrive_Integration-Intermediate-green)
 ![Microsoft Planner Integration](https://img.shields.io/badge/Microsoft_Planner_Integration-Intermediate-green)
