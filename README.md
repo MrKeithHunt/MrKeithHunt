@@ -8,6 +8,7 @@ I'm Keith Hunt, a passionate Microsoft Power Platform Developer/Evangelist from 
 - 💬 Ask me about the Microsoft Power Platform.
 - 📫 How to reach me: Mr.KeithHunt@gmail.com.
 
+
 ## 🔧 Technologies & Tools
 
 [![Microsoft Power Apps](https://img.shields.io/badge/Power%20Apps-%230078D4.svg?style=for-the-badge&logo=microsoft-powerapps&logoColor=white)](https://powerapps.microsoft.com/)
@@ -17,7 +18,6 @@ I'm Keith Hunt, a passionate Microsoft Power Platform Developer/Evangelist from 
 [![Microsoft Office 365](https://img.shields.io/badge/Office%20365-%23D83B01.svg?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/)
 [![Microsoft SharePoint Online](https://img.shields.io/badge/SharePoint%20Online-%23276DC3.svg?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)](https://sharepoint.microsoft.com/)
 [![Microsoft Dataverse](https://img.shields.io/badge/Dataverse-%230075FF.svg?style=for-the-badge&logo=microsoft-dataverse&logoColor=white)](https://powerplatform.microsoft.com/dataverse/)
-
 
 
 ## 💻 Skills
@@ -43,16 +43,17 @@ I'm Keith Hunt, a passionate Microsoft Power Platform Developer/Evangelist from 
 ![Excellent Communication Skills](https://img.shields.io/badge/Excellent_Communication_Skills-Expert-blue)
 
 
-
 ## 🛠️ Projects
 
 - This section is still under construction.
+
   
 ## 🌐 Connect with Me
 
 <a href="https://www.linkedin.com/in/your-linkedin-profile/" rel="nofollow">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" alt="LinkedIn Badge">
 </a>•	<a href="https://www.linkedin.com/in/mrkeithhunt?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BgyVQ8l0pS5WAyoWi%2BkavRA%3D%3D">linkedin.com/in/mrkeithhunt</a>
+
 
 ## 📈 GitHub Stats
 
