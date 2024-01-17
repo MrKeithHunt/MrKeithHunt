@@ -44,8 +44,11 @@ I'm Keith Hunt, a passionate Microsoft Power Platform Developer/Evangelist from 
 
 
 ## 🛠️ Projects
+Personal App Store:
+![Personal App Store Front](https://github.com/MrKeithHunt/PowerPlatform/blob/Images/App%20Store%20Front.PNG)
 
-- This section is still under construction.
+Personal App Store (Model-Driven Version):
+![Personal App Store Front - Model-Driven Version](https://github.com/MrKeithHunt/PowerPlatform/blob/Images/App%20Store%20Front%20(Model-Driven).PNG)
 
   
 ## 🌐 Connect with Me
