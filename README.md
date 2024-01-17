@@ -61,7 +61,7 @@ Personal App Store (Model-Driven Version):
 
 <p align="left">
   <a href="https://www.linkedin.com/in/your-linkedin-profile" target="www.linkedin.com/in/mrkeithhunt">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /> Connect with me on LinkedIn
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 </p>
 
