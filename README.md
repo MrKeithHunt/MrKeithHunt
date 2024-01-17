@@ -59,10 +59,11 @@ Personal App Store (Model-Driven Version):
   
 ## 🌐 Connect with Me
 
-<a href="https://www.linkedin.com/in/your-linkedin-profile/" rel="nofollow">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" alt="LinkedIn Badge">
-</a>•	<a href="https://www.linkedin.com/in/mrkeithhunt?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BgyVQ8l0pS5WAyoWi%2BkavRA%3D%3D">linkedin.com/in/mrkeithhunt</a>
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="www.linkedin.com/in/mrkeithhunt">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /> Connect with me on LinkedIn
+  </a>
+</p>
 
 ## 📈 GitHub Stats
 
