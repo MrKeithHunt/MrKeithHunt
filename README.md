@@ -21,10 +21,7 @@ I'm Keith Hunt, a passionate Microsoft Power Platform Developer/Evangelist from 
 
 
 ## 💻 Skills
-![HTML5](https://img.shields.io/badge/HTML5-Beginner-yellow) 
-![CSS3](https://img.shields.io/badge/CSS3-Beginner-yellow) 
-![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow) 
-![YMAL](https://img.shields.io/badge/YMAL-Beginner-yellow)
+
 ![PowerFx Formulas](https://img.shields.io/badge/PowerFx-Intermediate-green) 
 ![Canvas & Model-Driven Apps](https://img.shields.io/badge/Canvas_&_Model--Driven_Apps-Intermediate-green)
 ![Power Automate Workflows](https://img.shields.io/badge/Power_Automate_Workflows-Intermediate-green)
@@ -39,6 +36,10 @@ I'm Keith Hunt, a passionate Microsoft Power Platform Developer/Evangelist from 
 ![Smartsheet Collaboration Work Management Platform](https://img.shields.io/badge/Smartsheet_Collaboration_Work_Management_Platform-Intermediate-green)
 ![Azure DoD Region](https://img.shields.io/badge/Azure_DoD_Region-Intermediate-green)
 ![Agile/Scrum](https://img.shields.io/badge/Agile_Scrum-Intermediate-green)
+![HTML5](https://img.shields.io/badge/HTML5-Beginner-yellow) 
+![CSS3](https://img.shields.io/badge/CSS3-Beginner-yellow) 
+![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow) 
+![YMAL](https://img.shields.io/badge/YMAL-Beginner-yellow)
 ![Business Process Management](https://img.shields.io/badge/Business_Process_Management-Expert-blue)
 ![Excellent Communication Skills](https://img.shields.io/badge/Excellent_Communication_Skills-Expert-blue)
 
