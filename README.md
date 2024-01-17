@@ -38,7 +38,7 @@
 ![SharePoint Online](https://img.shields.io/badge/SharePoint_Online-Intermediate-green)
 ![Smartsheet Collaboration Work Management Platform](https://img.shields.io/badge/Smartsheet_Collaboration_Work_Management_Platform-Intermediate-green)
 ![Azure DoD Region](https://img.shields.io/badge/Azure_DoD_Region-Intermediate-green)
-![Azure DevOps](https://img.shields.io/badge/Azure-DevOps-Intermediate-green)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-Intermediate-green)
 ![Agile/Scrum](https://img.shields.io/badge/Agile_Scrum-Intermediate-green)
 ![HTML5](https://img.shields.io/badge/HTML5-Beginner-yellow) 
 ![CSS3](https://img.shields.io/badge/CSS3-Beginner-yellow) 
