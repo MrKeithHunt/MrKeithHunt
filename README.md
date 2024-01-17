@@ -18,7 +18,11 @@
 [![Microsoft Office 365](https://img.shields.io/badge/Office%20365-%23D83B01.svg?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/)
 [![Microsoft SharePoint Online](https://img.shields.io/badge/SharePoint%20Online-%23276DC3.svg?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)](https://sharepoint.microsoft.com/)
 [![Microsoft Dataverse](https://img.shields.io/badge/Dataverse-%230075FF.svg?style=for-the-badge&logo=microsoft-dataverse&logoColor=white)](https://powerplatform.microsoft.com/dataverse/)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,ansible,atom,bootstrap,svg,vscode" />
+  </a>
+</p>
 
 ## 💻 Skills
 
