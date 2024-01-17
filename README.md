@@ -1,4 +1,5 @@
-# Hi! 😎✌
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/? font=Righteous&size=35&center=true&Center=true&width500&height=70&duration=4000&lines=Hi+😎+✌;+I'm+Keith+Hunt+!;"/></h1>
 
 I'm Keith Hunt, a passionate Microsoft Power Platform Developer/Evangelist from Tampa, Florida. Welcome to my GitHub profile!
 
