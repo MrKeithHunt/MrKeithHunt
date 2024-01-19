@@ -49,13 +49,30 @@
 
 
 ## 🛠️ Projects
-Personal App Store:
 
-<img src="https://github.com/MrKeithHunt/PowerPlatform/blob/Images/App%20Store%20Front%202.PNG" alt="alt text" width="600" height="400">
-
-Personal App Store (Model-Driven Version):
-
-![Personal App Store Front - Model-Driven Version](https://github.com/MrKeithHunt/PowerPlatform/blob/Images/App%20Store%20Front%20(Model-Driven).PNG)
+<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item">
+      <img src="https://github.com/MrKeithHunt/MrKeithHunt/blob/Images/PowerApps_scalable.svg" alt="...">
+     <div class="carousel-caption d-none d-md-block">
+    <p>Power Apps Solutions</p>
+  </div>
+</div>
+    <div class="carousel-item">
+     <a href="www.google.com" target="_blank">
+      <img class="d-block w-100" src="https://github.com/MrKeithHunt/MrKeithHunt/blob/Images/PowerAutomate_scalable.svg" alt="Power Automate Workflows">
+    <div class="carousel-caption d-none d-md-block">
+    <p>Power Automate Workflows</p>
+  </div>
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="https://github.com/MrKeithHunt/MrKeithHunt/blob/Images/PowerPages_scalable.svg" alt="Power Pages Sites"
+    <div class="carousel-caption d-none d-md-block">
+    <p>Power Page Sites</p>
+  </div>
+       </div>
+  </div>
+</div>
 
   
 ## 🌐 Connect with Me
