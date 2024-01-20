@@ -53,7 +53,7 @@
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item">
-     <a href="https://github.com/MrKeithHunt/PowerAppsSolutions/new/main?readme=1" target="_blank">
+     <a href="https://github.com/MrKeithHunt/PowerAppsSolutions/tree/main" target="_blank">
       <img src="https://github.com/MrKeithHunt/MrKeithHunt/blob/Images/PowerApps_scalable.svg" alt="...">
      <div class="carousel-caption d-none d-md-block">
     <p>Power Apps Solutions</p>
