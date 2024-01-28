@@ -74,7 +74,16 @@
        </div>
   </div>
 </div>
-
+    </div>
+    <div class="carousel-item">
+     <a href="https://github.com/MrKeithHunt/CSS-Projects" target="_blank">
+      <img class="d-block w-100" src="https://skillicons.dev/icons?i=css" alt=""
+    <div class="carousel-caption d-none d-md-block">
+    <p>Cascading Style Sheets Projects</p>
+  </div>
+       </div>
+  </div>
+</div>
   
 ## 🌐 Connect with Me
 
