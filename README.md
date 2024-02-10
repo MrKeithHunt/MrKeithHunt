@@ -28,7 +28,7 @@
 ## 💻 Skills
 
 ![PowerFx Formulas](https://img.shields.io/badge/PowerFx-Intermediate-green) 
-![Canvas & Model-Driven Apps](https://img.shields.io/badge/Canvas_&_Model--Driven_Apps-Intermediate-green)
+![Canvas & Model-Driven Apps](/Canvas_&_Model--Driven_Apps-Intermediate-green)
 ![Power Automate Workflows](https://img.shields.io/badge/Power_Automate_Workflows-Intermediate-green)
 ![Power BI Data Analytics](https://img.shields.io/badge/Power_BI_Data_Analytics-Intermediate-green)
 ![Dataverse](https://img.shields.io/badge/Dataverse-Intermediate-green)
@@ -93,9 +93,14 @@
   </a>
 </p>
 
+[Keith Hunt](https://www.linkedin.com/in/mrkeithhunt)
+
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrkeithhunt&show_icons=true&theme=gruvbox)
+
+![GitHub followers](https://img.shields.io/github/followers/MrKeithHunt)
+
 
 
 ⭐️ If you are looking for a results-driven professional who can bring a unique blend of technical prowess, business acumen, and a vast network, I am here to make a difference. Let's connect and explore how we can create powerful solutions together. Thank you for visiting! 
