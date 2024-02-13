@@ -28,7 +28,6 @@
 ## 💻 Skills
 
 ![PowerFx Formulas](https://img.shields.io/badge/PowerFx-Intermediate-green) 
-![Canvas & Model-Driven Apps](/Canvas_&_Model--Driven_Apps-Intermediate-green)
 ![Power Automate Workflows](https://img.shields.io/badge/Power_Automate_Workflows-Intermediate-green)
 ![Power BI Data Analytics](https://img.shields.io/badge/Power_BI_Data_Analytics-Intermediate-green)
 ![Dataverse](https://img.shields.io/badge/Dataverse-Intermediate-green)
